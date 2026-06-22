@@ -1,6 +1,6 @@
 [submodule "libs"]
 	path = src/STLINK-V3-BRIDGE_libusb
-	url = https://github.com/dragonlock2/STLINK-V3-BRIDGE_libusb.git
+	url = https://github.com/martonmiklos/STLINK-V3-BRIDGE_libusb.git
 [submodule "libusb"]
 	path = src/libusb
 	url = https://github.com/libusb/libusb.git
